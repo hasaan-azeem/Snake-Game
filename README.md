@@ -19,7 +19,7 @@ To play the game locally, follow these steps:
 
 ### 🛠 Clone the Repository:
 ```sh
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/hasaan-azeem/snake-game.git
 ```
 ## 📂 Navigate to the Project Folder:
 ```sh
